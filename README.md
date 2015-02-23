@@ -5,4 +5,4 @@ sandbox for git/github newbie
 
 ブランチを複数個作ってコンフリクトさせたり、コンフリクトを解消してマージしてみたり好きなことをやってみてください。
 
-Git Shellからの変更：修正テスト(小林)
+FlashBuilderからの変更：修正テスト(小林)

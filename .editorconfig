@@ -1,4 +1,4 @@
-# 4 space indentation
+# タブのインデント幅の設定
 [*.{mxml,as}]
 indent_style = tab
 indent_size = 4

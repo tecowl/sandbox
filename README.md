@@ -6,3 +6,9 @@ sandbox for git/github newbie
 ブランチを複数個作ってコンフリクトさせたり、コンフリクトを解消してマージしてみたり好きなことをやってみてください。
 
 FlashBuilderからの変更：修正テスト(小林)
+
+term
+: description
+
+term
+: description
